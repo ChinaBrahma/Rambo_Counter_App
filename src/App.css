@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+.card {
+  padding: 2em;
+  background-color: rgb(225, 226, 226);
+}
+
+.b1{
+  margin: 1rem 1rem;
+  background-color: black;
+  color: white;
+  font-size: 1em;
+}
+
